@@ -26,13 +26,13 @@ Input Starting and Ending Lines: Enter your desired starting and ending lines wh
 View Generated Poem: Once generated, view the poem created by the AI in the console.
 
 ## Example
-**Enter starting line**: In the meadows of spring 
-**Enter ending line**: Beneath the moon's soft glow
-**Generated Poem:**
-In the meadows of spring, where blossoms bloom,
-And fragrant scents perfume the air's sweet room.
-Beneath the moon's soft glow, shadows dance,
-As whispers of the night weave dreams' romance.
+**Enter starting line**: In the meadows of spring<br/>
+**Enter ending line**: Beneath the moon's soft glow<br/>
+**Generated Poem:**<br/>
+In the meadows of spring, where blossoms bloom,<br/>
+And fragrant scents perfume the air's sweet room.<br/>
+Beneath the moon's soft glow, shadows dance,<br/>
+As whispers of the night weave dreams' romance.<br/>
 
 ## Repository Link
 https://github.com/Vibilan-S/TNSDC-Generative-AI
