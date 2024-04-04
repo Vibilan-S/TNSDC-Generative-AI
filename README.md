@@ -7,16 +7,16 @@ This repository contains a Generative AI Poetry Generator capable of creating un
 Generative AI is a field of artificial intelligence focused on creating outputs that mimic human-like creativity and intelligence. This project specifically explores generative AI in the domain of poetry generation. By providing starting and ending lines as input, the model generates poems that bridge the gap between the provided lines, resulting in cohesive and expressive literary works.
 
 ## Features
-Poem Generation: Input starting and ending lines to generate a poem connecting the provided lines.</br>
-Customizable Length: Control the length of the generated poem.</br>
-High-Quality Outputs: Benefit from the advanced capabilities of generative AI to produce rich and coherent poetry.</br>
-Easy-to-Use Interface: Simple and intuitive interface for generating poems effortlessly.</br>
+**Poem Generation**: Input starting and ending lines to generate a poem connecting the provided lines.</br>
+**Customizable Length**: Control the length of the generated poem.</br>
+**High-Quality Outputs**: Benefit from the advanced capabilities of generative AI to produce rich and coherent poetry.</br>
+**Easy-to-Use Interface**: Simple and intuitive interface for generating poems effortlessly.</br>
 
 ## Requirements
-Python (>=3.6)
-Transformers library
-PyTorch
-NumPy
+Python (>=3.6)<br/>
+Transformers library<br/>
+PyTorch<br/>
+NumPy<br/>
 
 ## Getting Started
 Installation: Ensure you have Python 3.x installed on your system.
@@ -26,10 +26,9 @@ Input Starting and Ending Lines: Enter your desired starting and ending lines wh
 View Generated Poem: Once generated, view the poem created by the AI in the console.
 
 ## Example
-$ python generate_poem.py
-Enter starting line: In the meadows of spring 
-Enter ending line: Beneath the moon's soft glow
-Generated Poem:
+**Enter starting line**: In the meadows of spring 
+**Enter ending line**: Beneath the moon's soft glow
+**Generated Poem:**
 In the meadows of spring, where blossoms bloom,
 And fragrant scents perfume the air's sweet room.
 Beneath the moon's soft glow, shadows dance,
